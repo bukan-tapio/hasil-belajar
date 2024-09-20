@@ -2,14 +2,19 @@
 repo iseng untuk coba-coba
 --
 
-Ada beberapa hal yang bisa dilakukan diwaktu luang.
+_Ada beberapa hal yang bisa dilakukan diwaktu luang_.
 <br>
 - bermain bola
 - bermain gundu
-
-
 <br>
-Dibawah ini adalah permainan anak-anak
+
+_Dibawah ini adalah permainan anak-anak_. 
+<br>
 - Bekel
 - dll
+
+_Dibawah ini merupakan permainan anak laki-laki_.
+<br>
+- layangan
+- mejad
 
