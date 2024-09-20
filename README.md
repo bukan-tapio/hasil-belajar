@@ -21,5 +21,4 @@ _Dibawah ini merupakan permainan anak laki-laki_.
 _Dibawah ini tidak ada permainan untuk bencong_.
 <br>
 # !Jangan GAY bjir
-# Stay HALAL
 
