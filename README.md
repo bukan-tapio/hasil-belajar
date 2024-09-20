@@ -16,5 +16,9 @@ _Dibawah ini adalah permainan anak-anak_.
 _Dibawah ini merupakan permainan anak laki-laki_.
 <br>
 - layangan
-- mejad
+- gundu
+
+_Dibawah ini tidak ada permainan untuk bencong_.
+<br>
+# !Jangan GAY bjir
 
