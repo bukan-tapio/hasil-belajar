@@ -2,7 +2,14 @@
 repo iseng untuk coba-coba
 --
 
-*Ada beberapa yang akan di isi di sini*
+Ada beberapa hal yang bisa dilakukan diwaktu luang.
 <br>
 - bermain bola
 - bermain gundu
+
+
+<br>
+Dibawah ini adalah permainan anak-anak
+- Bekel
+- dll
+
